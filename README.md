@@ -28,7 +28,7 @@ Solusi Masalah 2 — Keterlambatan Pengembalian Buku
 Solusi yang diusulkan adalah menyediakan pengingat otomatis dan perpanjangan peminjaman secara online. Sistem mengirimkan notifikasi sebelum jatuh tempo dan menyediakan fitur perpanjangan hingga dua kali. Selain itu, mahasiswa dapat melihat perhitungan denda secara real-time dan menggunakan fitur delegasi pengembalian dengan kode OTP. Dengan fitur tersebut, risiko keterlambatan dan denda dapat dikurangi.
 
 3. Ketiadaaniadaan Rekomendasi Bacaan Pendukung Mata Kuliah (Peringkat 3).
-masalah ini muncul di setiap awal semester dan berulang pada tiap penugasan mata kuliah. Dampaknya berupa turunnya kualitas referensi yang dipakai mahasiswa karena pemilihan sumber dilakukan tanpa panduan kredibilitas, yang berujung pada pemotongan nilai akademik. Tim dapat menjangkau dua sisi pengguna sekaligus, yaitu mahasiswa sebagai pemakai referensi dan dosen pengampu sebagai penyusun silabus, keduanya berada dalam satu lingkungan fakultas.
+masalah ini muncul di setiap awal semester dan berulang pada tiap penugasan mata kuliah. Dampaknya berupa turunnya kualitas referensi yang dipakai mahasiswa karena pemilihan sumber dilakukan tanpa panduan kredibilitas, yang berujung pada pemotongan nilai akademik. Tim dapat menjangkau dua sisi pengguna sekaligus, yaitu mahasiswa sebagai pemakai referensi dan dosen pengampu sebagai penyusun silabus, keduanya berada dalam satu lingkungan fakultas. 
 
 Solusi Masalah 3 — Ketiadaan Rekomendasi Bacaan Pendukung
 
